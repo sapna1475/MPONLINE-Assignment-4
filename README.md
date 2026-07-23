@@ -1,14 +1,14 @@
 # Breast Cancer Classification using K-Nearest Neighbors (KNN)
 
-**Author:** Akshat Garg  
+**Author:** Sapna Tiwari
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BSA10202
 
-**Application Number:** IN26011052
+**Application Number:** IN26009617 
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** sapna.23bsa10202@vitbhopal.ac.in 
 
 ## Objective
 The objective of this project is to build a K-Nearest Neighbors (KNN) classification model ($k=5$) to accurately classify breast tumors as Malignant (M) or Benign (B) based on diagnostic measurements.
